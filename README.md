@@ -1,8 +1,12 @@
 # NASA-Space-Apps
-Bot para coletar dados no evento NASA Space Apps Covid19
+Esse bot foi criado para coletar dados da COVID19 do Hospital Jonhs Hopkins
 
 # Requirements
-pip install -U selenium
+pip install selenium
 
 # Drivers
 https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+
+# Run
+python JohnsHopkinsScrapingCovid19.py
